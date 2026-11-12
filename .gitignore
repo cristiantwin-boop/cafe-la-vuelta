@@ -1,0 +1,9 @@
+node_modules
+.npm-cache
+.tools
+dist
+.vercel
+.netlify
+*.log
+
+.vercel
